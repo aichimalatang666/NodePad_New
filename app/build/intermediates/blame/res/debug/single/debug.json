@@ -4,32 +4,32 @@
         "source": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\src\\main\\res\\layout\\note_editor.xml"
     },
     {
-        "merged": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_noteslist_item.xml.flat",
-        "source": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\src\\main\\res\\layout\\noteslist_item.xml"
-    },
-    {
         "merged": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_app_notes.png.flat",
         "source": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\src\\main\\res\\drawable-ldpi\\app_notes.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_noteslist_item.xml.flat",
+        "source": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\src\\main\\res\\layout\\noteslist_item.xml"
     },
     {
         "merged": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_delete.png.flat",
         "source": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_delete.png"
     },
     {
-        "merged": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_list_options_menu.xml.flat",
-        "source": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\src\\main\\res\\menu\\list_options_menu.xml"
-    },
-    {
         "merged": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_delete.png.flat",
         "source": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\src\\main\\res\\drawable\\ic_menu_delete.png"
     },
     {
-        "merged": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_compose.png.flat",
-        "source": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_compose.png"
+        "merged": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_list_options_menu.xml.flat",
+        "source": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\src\\main\\res\\menu\\list_options_menu.xml"
     },
     {
         "merged": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_notes.png.flat",
         "source": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\src\\main\\res\\drawable\\app_notes.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_compose.png.flat",
+        "source": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_compose.png"
     },
     {
         "merged": "D:\\Android\\AndroidProject\\NotePad_new-master\\NotePad_new-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_save.png.flat",

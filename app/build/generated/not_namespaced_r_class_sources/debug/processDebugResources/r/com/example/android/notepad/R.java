@@ -11,9 +11,10 @@ public final class R {
   public static final class color {
     public static final int colorBlue=0x7f010000;
     public static final int colorGreen=0x7f010001;
-    public static final int colorRed=0x7f010002;
-    public static final int colorWhite=0x7f010003;
-    public static final int colorYellow=0x7f010004;
+    public static final int colorPurple=0x7f010002;
+    public static final int colorRed=0x7f010003;
+    public static final int colorWhite=0x7f010004;
+    public static final int colorYellow=0x7f010005;
   }
   public static final class drawable {
     public static final int app_notes=0x7f020000;
@@ -27,25 +28,26 @@ public final class R {
   public static final class id {
     public static final int color_blue=0x7f030000;
     public static final int color_green=0x7f030001;
-    public static final int color_red=0x7f030002;
-    public static final int color_white=0x7f030003;
-    public static final int color_yellow=0x7f030004;
-    public static final int context_copy=0x7f030005;
-    public static final int context_delete=0x7f030006;
-    public static final int context_open=0x7f030007;
-    public static final int list=0x7f030008;
-    public static final int menu_add=0x7f030009;
-    public static final int menu_color=0x7f03000a;
-    public static final int menu_delete=0x7f03000b;
-    public static final int menu_paste=0x7f03000c;
-    public static final int menu_revert=0x7f03000d;
-    public static final int menu_save=0x7f03000e;
-    public static final int menu_search=0x7f03000f;
-    public static final int note=0x7f030010;
-    public static final int ok=0x7f030011;
-    public static final int search=0x7f030012;
-    public static final int text2=0x7f030013;
-    public static final int title=0x7f030014;
+    public static final int color_purple=0x7f030002;
+    public static final int color_red=0x7f030003;
+    public static final int color_white=0x7f030004;
+    public static final int color_yellow=0x7f030005;
+    public static final int context_copy=0x7f030006;
+    public static final int context_delete=0x7f030007;
+    public static final int context_open=0x7f030008;
+    public static final int list=0x7f030009;
+    public static final int menu_add=0x7f03000a;
+    public static final int menu_color=0x7f03000b;
+    public static final int menu_delete=0x7f03000c;
+    public static final int menu_paste=0x7f03000d;
+    public static final int menu_revert=0x7f03000e;
+    public static final int menu_save=0x7f03000f;
+    public static final int menu_search=0x7f030010;
+    public static final int note=0x7f030011;
+    public static final int ok=0x7f030012;
+    public static final int search=0x7f030013;
+    public static final int text2=0x7f030014;
+    public static final int title=0x7f030015;
   }
   public static final class layout {
     public static final int note_color=0x7f040000;

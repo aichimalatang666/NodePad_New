@@ -66,5 +66,8 @@ public class NoteColor extends Activity {
         color = NotePad.Notes.RED_COLOR;
         finish();
     }
-
+    public void purple(View view) {
+        color = NotePad.Notes.PURPLE_COLOR;
+        finish();
+    }
 }

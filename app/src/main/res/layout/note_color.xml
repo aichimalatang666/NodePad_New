@@ -38,4 +38,11 @@
         android:layout_weight="1"
         android:background="@color/colorRed"
         android:onClick="red"/>
+    <ImageButton
+        android:id="@+id/color_purple"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:background="@color/colorPurple"
+        android:onClick="purple"/>
 </LinearLayout>

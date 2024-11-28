@@ -42,6 +42,7 @@ public final class NotePad {
         public static final int BLUE_COLOR = 2; //blue
         public static final int GREEN_COLOR = 3; //green
         public static final int RED_COLOR = 4; //red
+        public static final int PURPLE_COLOR = 5;
         // This class cannot be instantiated
         private Notes() {}
 

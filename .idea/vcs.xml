@@ -3,7 +3,5 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/NodePad" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/NodePad_New" vcs="Git" />
   </component>
 </project>
