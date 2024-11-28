@@ -1,3 +1,4 @@
+
 本项目实现了基本功能（时间戳和搜索功能）、扩展功能（UI美化和背景色修改）
 ## 1. 基本功能
 ### 1.1 时间戳
@@ -456,5 +457,3 @@ public class NoteColor extends Activity {
             android:windowSoftInputMode="stateVisible"/>
 ```
 #### 2.2.8 功能展示
-
-
