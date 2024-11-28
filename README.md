@@ -41,6 +41,7 @@ private static final String[] PROJECTION = new String[] {
         values.put(NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE, dateFormat);
 ```
 #### 1.1.5 功能展示
+<img src="https://github.com/aichimalatang666/NodePad_New/blob/master/001.jpg" width="210px">
 
 ### 1.2 搜索功能
 #### 1.2.1 步骤一：在layout文件夹中的list_options_menu.xml增加搜索功能
@@ -171,6 +172,7 @@ public class NoteSearch extends Activity implements SearchView.OnQueryTextListen
 <activity android:name="NoteSearch" android:label="@string/menu_search">
 ```
 #### 1.2.6 功能展示
+<img src="https://github.com/aichimalatang666/NodePad_New/blob/master/002.jpg" width="210px">
 
 ## 2. 扩展功能
 ### 2.1 UI美化
@@ -272,6 +274,7 @@ MyCursorAdapter adapter = new MyCursorAdapter(
         );
 ```
 #### 2.1.8 功能展示
+<img src="https://github.com/aichimalatang666/NodePad_New/blob/master/001.jpg" width="210px">
 
 ### 2.2 背景色修改
 #### 2.2.1 步骤一：在NotesList.java中为PROJECTION中添加：
@@ -457,3 +460,6 @@ public class NoteColor extends Activity {
             android:windowSoftInputMode="stateVisible"/>
 ```
 #### 2.2.8 功能展示
+<img src="https://github.com/aichimalatang666/NodePad_New/blob/master/003.jpg" width="210px">
+
+<img src="https://github.com/aichimalatang666/NodePad_New/blob/master/004.jpg" width="210px">
